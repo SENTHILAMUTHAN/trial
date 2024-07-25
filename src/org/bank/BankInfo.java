@@ -13,6 +13,13 @@ public class BankInfo{
 		System.out.println("Fixed deposit");
 
 	}
+	public void fixed() {
+		// TODO Auto-generated method stub
+		System.out.println("Fixed deposit");
+
+	}
+	
+	
 	public void deposit() {
 		// TODO Auto-generated method stub
 		System.out.println("Types of Deposit provided by Axis bank\t:"+"\n");
