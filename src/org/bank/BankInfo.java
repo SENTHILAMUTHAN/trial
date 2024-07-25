@@ -9,10 +9,12 @@ public class BankInfo {
 	}
 
 	
-	  public void fixed() { // TODO Auto-generated method stub
-	  System.out.println("Fixed deposit");
-	  
-	  }
+	/*
+	 * public void fixed() { // TODO Auto-generated method stub
+	 * System.out.println("Fixed deposit");
+	 * 
+	 * }
+	 */
 	 
 	public void deposit() {
 		// TODO Auto-generated method stub
